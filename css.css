@@ -1,0 +1,184 @@
+/* 
+h1{
+    color:rgb(55, 149, 175);
+    text-align: center;
+    
+}
+body{ 
+    background-image: url('https://img.wattpad.com/cover/348435375-256-k968841.jpg');
+    background-size:230px 400px;
+    background-position:center;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+   background-color: rgb(10, 6, 60);
+    height: 100vh; /* Ensure the body takes up the full viewport height */
+
+/* }
+p{
+    text-align:center;
+    color:rgb(96, 226, 228);
+    font-size: larger;
+    height: 6000vh;
+} */
+
+/* .= to call the class
+#= to call the id  */
+
+/* .p1{ font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+.p2{
+     font-family:fantasy;
+}
+.p3{
+    font-family: sans-serif;
+}
+#p4{ font-family: cursive;
+
+} */
+/* ul{
+    list-style-type: circle;
+    color:aquamarine;
+}
+ul ul{
+    list-style-type:circle;
+    color:brown;
+}
+
+ul ul li {
+    text-align: center;
+} */
+
+body {
+    background-color: blanchedalmond;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+h1 {
+    color: goldenrod;
+    text-align: center;
+}
+
+#div_v {
+    width: 680px;
+    height: 400px;
+    margin-left: 360px;
+}
+
+iframe {
+    width: 640px;
+    height: 360px;
+    position: relative;
+
+}
+
+p {
+    color: black;
+}
+
+p a {
+    text-decoration: none;
+    color: goldenrod;
+}
+
+nav {
+    background-color: rgb(240, 200, 148);
+    border-style: solid;
+    border-radius: 5px;
+    border-color: rgb(233, 221, 202);
+    border-width: 2px
+}
+
+nav ul {
+    background-color: blanchedalmond;
+    border-style: dashed;
+
+    border-width: 2px solid black;
+    border-radius: 10px;
+
+}
+
+nav ul li {
+    display: inline-block;
+    list-style-type: none;
+    color: olive;
+    padding: 0 5px 0 5px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: olive;
+
+}
+
+nav ul li :hover {
+    opacity: 20%;
+}
+
+p {
+    text-align: center;
+}
+
+.image {
+    margin-left: 550px;
+    border: 2px solid white;
+
+}
+
+.image:hover {
+    border: 2px dashed navy;
+}
+
+h2 {
+    color: rgb(33, 130, 11);
+    text-align: center;
+}
+
+.food_image{
+    margin-left: 550px;
+
+}
+
+.food {
+    border: 3px solid whitesmoke;
+    border-radius: 5px;
+    box-shadow: black 30px;
+}
+
+.place_image {
+    margin-left: 550px;
+
+}
+
+.places {
+    border: 3px solid whitesmoke;
+    border-radius: 5px;
+    box-shadow: black 30px;
+}
+
+/*
+music style
+ */
+
+
+table,
+th,
+td {
+    border: 1px solid honeydew;
+    border-collapse: collapse;
+
+}
+
+tr {
+    background-color: rgb(224, 134, 71);
+}
+
+th,
+td {
+    color: blanchedalmond;
+}
+table{
+    margin:auto;
+    width:70%;
+    height:200px;
+}
